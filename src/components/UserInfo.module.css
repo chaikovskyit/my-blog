@@ -1,0 +1,15 @@
+.usersInfo {
+	border: 1px solid black;
+	border-radius: 15px;
+	background-color: aquamarine;
+	margin: 25px;
+	width: 300px;
+}
+
+.usersInfo h1 {
+	text-align: center;
+}
+
+.usersInfo li {
+	list-style: none;
+}
